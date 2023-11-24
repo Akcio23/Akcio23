@@ -6,11 +6,6 @@
 <img width=40% align="center" src="https://github-readme-stats-git-main-Akcio23.vercel.app/api/top-langs/?username=Akcio23&show_icons=true&theme=radical&layout=compact" />
  </div>
  
- &nbsp;
- &nbsp;
-
-
-
 ## My Skills
 
 #### Main Stack:
