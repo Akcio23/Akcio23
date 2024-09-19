@@ -8,8 +8,10 @@
 - 📫 How to reach me **dev.akcio@gmail.com**
 
 - ⚡ Fun fact **I have a dislocated shoulder 😵‍💫**
-- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Akcio23&theme=github-dark&border_radius=15&mode=weekly)](https://git.io/streak-stats)
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Akcio23&theme=github-dark&border_radius=15&mode=weekly)](https://git.io/streak-stats)
+</div>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
