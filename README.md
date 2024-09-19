@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akcio23&show_icons=true&locale=en&theme=dark" alt="akcio23" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akcio23&theme=dark" alt="akcio23" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Akcio23&theme=garden&hide_border=true&mode=weekly)](https://git.io/streak-stats)
