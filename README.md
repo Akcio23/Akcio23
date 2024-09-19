@@ -1,4 +1,9 @@
-![Texto Alternativo](https://images.pexels.com/photos/842711/pexels-photo-842711.jpeg?cs=srgb&dl=pexels-christian-heitz-285904-842711.jpg&fm=jpg)
+<div style="text-align: center;">
+    <div style="border: 2px solid #ccc; display: inline-block; width: 80%; max-width: 800px;">
+        <img src="https://asset.gecdesigns.com/img/wallpapers/beautiful-fantasy-wallpaper-ultra-hd-wallpaper-4k-sr10012418-1706506236698-cover.webp" 
+             alt="Paisagem" 
+             style="width: 100%; height: auto; border-radius: 10px;">
+    </div>
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">A passionate Full Stack developer from Brazil</h3>
 
