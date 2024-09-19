@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript,Next.js, React, node.js,Express, Java**
 
-- 💬 Ask me about **React, js, POO, TypeScrypt, Next.js**
+- 💬 Ask me about **Football, Games and programming**
 
 - 📫 How to reach me **dev.akcio@gmail.com**
 
