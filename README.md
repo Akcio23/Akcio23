@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">A passionate Full Stack developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akcio23" alt="AKcio23" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akcio23&theme=highcontrast" alt="AKcio23" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript,Next.js, React, node.js,Express, Java**
 
