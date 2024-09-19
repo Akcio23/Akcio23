@@ -9,7 +9,9 @@
 
 - ⚡ Fun fact **I have a dislocated shoulder 😵‍💫**
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Akcio23&theme=github-dark&border_radius=15&mode=weekly)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Akcio23&theme=github-dark&border_radius=15&mode=weekly)](https://git.io/streak-stats)
+
 </div>
 
 
