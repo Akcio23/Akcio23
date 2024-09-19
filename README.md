@@ -1,3 +1,4 @@
+![Texto Alternativo](https://images.pexels.com/photos/842711/pexels-photo-842711.jpeg?cs=srgb&dl=pexels-christian-heitz-285904-842711.jpg&fm=jpg)
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">A passionate Full Stack developer from Brazil</h3>
 
