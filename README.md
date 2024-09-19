@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <div style="border: 2px solid #ccc; display: inline-block; width: 80%; max-width: 800px;">
+    <div style="border: 2px solid #ccc; display: inline-block; width: 80%; max-width: 800px; height: 400px">
         <img src="https://asset.gecdesigns.com/img/wallpapers/beautiful-fantasy-wallpaper-ultra-hd-wallpaper-4k-sr10012418-1706506236698-cover.webp" 
              alt="Paisagem" 
              style="width: 100%; height: auto; border-radius: 10px;">
