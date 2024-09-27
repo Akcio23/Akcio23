@@ -4,7 +4,7 @@
              alt="Paisagem" 
              style="width: 100%; height: 300px; object-fit: cover; border-radius: 10px;">
     </div>
-<h1 align="center">Hi 👋, I'm Pedro</h1>
+<h1 align="center">Hi, I'm Pedro</h1>
 <h3 align="center">A passionate Full Stack developer from Brazil</h3>
 
 - 🌱 I’m currently learning **JavaScript,Next.js, React, node.js,Express, Java**
